@@ -1,0 +1,25 @@
+RIVERBEND RHEUMATOLOGY ASSOCIATES
+Referral / Chart Excerpt for Prior Authorization Request
+
+Patient: Casey Rivera
+DOB: 1988-11-02
+Member ID: CCH-7740221 (Cascade Community Health)
+Referring Provider: Dr. Wen Zhao, MD (Rheumatology)
+
+Date of visit: 2026-09-02
+
+Chief complaint: Ongoing joint pain and swelling despite methotrexate therapy for psoriatic arthritis.
+
+History of present illness: Patient has a confirmed diagnosis of psoriatic arthritis, established 8 months ago based on psoriatic skin plaques, nail pitting, and inflammatory joint symptoms with imaging showing erosive changes at the right second MCP joint. Patient was started on methotrexate 15 mg weekly, titrated to 20 mg weekly, for a total of 4 months. Despite this, the patient continues to report morning stiffness lasting over an hour, and swelling in multiple small joints.
+
+Treatments tried: Methotrexate 20 mg weekly for 4 months with folic acid supplementation, discontinued 2 weeks ago due to inadequate response (not due to intolerance). Prior to that, a trial of NSAIDs for symptom control was only partially effective.
+
+Exam findings: Tender and swollen joint count today: 6 tender, 4 swollen (bilateral MCPs and PIPs). Dactylitis noted in the right third finger. Enthesitis tenderness at the right Achilles insertion. Labs from last week: CRP 18 mg/L (elevated), ESR 32 mm/hr (elevated). Skin exam shows stable, well-controlled psoriatic plaques on elbows.
+
+Screening: QuantiFERON-TB Gold test performed last week, result negative. Hepatitis B surface antigen and core antibody performed last week, both negative.
+
+Assessment: Active psoriatic arthritis with inadequate response to a 4-month adequate trial of methotrexate, objective evidence of active synovitis, dactylitis, and enthesitis, with elevated inflammatory markers. TB and hepatitis B screening completed and negative.
+
+Plan: Requesting prior authorization to initiate adalimumab (Humira) 40 mg subcutaneous injection every other week. Will monitor CBC, CMP, and inflammatory markers every 3 months, and will screen for signs of infection at each visit given increased infection risk on biologic therapy.
+
+--- END OF CHART EXCERPT (fictitious patient, for software demonstration only) ---

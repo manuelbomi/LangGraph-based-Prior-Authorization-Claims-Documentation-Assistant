@@ -1,0 +1,25 @@
+SUMMIT ORTHOPEDIC PHYSICAL THERAPY
+Referral / Chart Excerpt for Prior Authorization Request (Extension of Care)
+
+Patient: Morgan Ellis
+DOB: 1965-06-21
+Member ID: BPI-3391847 (Beacon Preferred Insurance)
+Referring Provider: Jamie Sutton, PT, DPT
+
+Date of progress note: 2026-09-05
+
+Chief complaint: Right knee pain and stiffness following arthroscopic partial meniscectomy 7 weeks ago; currently completing initial physical therapy authorization.
+
+History: Patient underwent right knee arthroscopic partial meniscectomy 7 weeks ago and was referred to outpatient physical therapy. Initial authorization covered 6 visits, all of which have now been completed over the past 3 weeks (2 visits per week).
+
+Progress to date: Right knee active range of motion has improved from 0-95 degrees at initial evaluation to 0-118 degrees currently. Quadriceps strength has improved from 3/5 to 4/5 manual muscle test. Pain with stairs has decreased from 7/10 to 4/10 on a numeric rating scale. Patient can now walk 4 blocks without a cane, up from 1 block at initial evaluation.
+
+Remaining functional goal: Patient's stated goal is to return to full duty as a warehouse supervisor, which requires the ability to climb ladders and squat to floor level repeatedly without pain, and to walk continuously for at least 30 minutes. Patient is not yet able to squat below 90 degrees of knee flexion without pain, and reports the knee "gives out slightly" when descending stairs quickly, which has not fully resolved.
+
+Plan of care update: Therapist has updated the plan of care to include progressive closed-chain strengthening, single-leg balance training, and a structured return-to-work ladder and squat protocol. Estimated additional visits needed: 8 visits over the next 4 weeks, reassessing at visit 4 of the extension.
+
+Note on progress trend: Improvement has been steady and measurable at each of the last 3 visits; no plateau has been observed. However, the most recent visit note does not explicitly restate the numeric pain score or a fresh strength grade for that specific session, so the most current single data point is less complete than earlier visits in this note.
+
+Plan: Requesting prior authorization for an extension of outpatient physical therapy, 8 additional visits, to address the remaining functional deficits described above before return to full-duty work.
+
+--- END OF CHART EXCERPT (fictitious patient, for software demonstration only) ---

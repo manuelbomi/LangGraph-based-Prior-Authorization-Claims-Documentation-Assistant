@@ -1,0 +1,25 @@
+CEDAR VALLEY FAMILY MEDICINE
+Referral / Chart Excerpt for Prior Authorization Request
+
+Patient: Sam Okafor
+DOB: 1992-01-09
+Member ID: MHP-6602218 (Meridian Health Plan)
+Referring Provider: Dr. Alicia Munoz, MD
+
+Date of visit: 2026-09-08
+
+Chief complaint: New onset low back pain after a weekend hiking trip.
+
+History of present illness: Patient reports low back pain that began 12 days ago after a long hike, described as a moderate, dull ache localized to the lower back without radiation into the legs. No numbness, no tingling, no weakness reported. Pain is worse with prolonged sitting and improves somewhat with movement and over-the-counter ibuprofen taken intermittently over the past week.
+
+Treatments tried: Over-the-counter ibuprofen 400 mg as needed, taken intermittently (not a consistent scheduled course) for about a week. Patient has not yet started any formal physical therapy or a structured home exercise program. No referral to physical therapy has been made yet.
+
+Exam findings: Mild paraspinal tenderness in the lumbar region. Straight leg raise negative bilaterally. Sensation intact throughout both lower extremities. Strength 5/5 throughout. Reflexes symmetric and normal. No bowel or bladder dysfunction, no saddle anesthesia, no fever, no unexplained weight loss, no history of cancer.
+
+Imaging: No prior lumbar spine imaging has been obtained.
+
+Assessment: Acute, uncomplicated mechanical low back pain of short duration (under 2 weeks), no neurological deficit, no red-flag symptoms, and conservative treatment has not yet been formally attempted.
+
+Plan: Patient is requesting imaging due to ongoing discomfort and concern about missing an occupational commitment. Provider discussed that guideline-concordant care typically starts with a structured course of conservative treatment (physical therapy and scheduled anti-inflammatory therapy) before advanced imaging is considered, but patient asked that a prior authorization request for lumbar MRI be submitted for the payer's consideration alongside a referral to physical therapy started today.
+
+--- END OF CHART EXCERPT (fictitious patient, for software demonstration only) ---

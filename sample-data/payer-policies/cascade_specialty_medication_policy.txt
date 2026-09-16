@@ -1,0 +1,11 @@
+PAYER: Cascade Community Health
+SERVICE: Adalimumab (Humira) for Psoriatic Arthritis (HCPCS J0135)
+POLICY TITLE: Medical Necessity Criteria for Adalimumab in Adult Psoriatic Arthritis
+
+CRITERION a: The member has a confirmed diagnosis of psoriatic arthritis, documented by a rheumatologist or a provider with equivalent specialty training.
+CRITERION b: The member has tried and had an inadequate response to, or could not tolerate, at least one conventional disease-modifying antirheumatic drug (DMARD) such as methotrexate, for a minimum of 3 months.
+CRITERION c: The member has active disease documented at the time of the request (for example, tender or swollen joint counts, dactylitis, enthesitis, or elevated inflammatory markers such as CRP or ESR).
+CRITERION d: The member has been screened for latent tuberculosis and chronic hepatitis B prior to starting therapy, per standard biologic safety screening.
+CRITERION e: The prescribing provider has documented a plan to monitor the member for infection risk and treatment response while on therapy.
+
+NOTE: This is a fictitious payer policy created for a software engineering demonstration. It is not derived from, and does not represent, the actual medical policy of any real insurance company. It should not be used for any real coverage determination.

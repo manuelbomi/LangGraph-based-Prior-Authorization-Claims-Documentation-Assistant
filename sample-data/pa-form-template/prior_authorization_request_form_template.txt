@@ -1,0 +1,41 @@
+PRIOR AUTHORIZATION REQUEST FORM (BLANK TEMPLATE)
+This is a generic, fictitious template modeled on the kind of fields a
+payer-agnostic prior-authorization form typically asks for. It is not a
+copy of any real payer's actual form.
+
+SECTION 1: PATIENT INFORMATION
+  Patient name: ______________________
+  Date of birth: ______________________
+  Insurance member ID: ______________________
+  Payer / health plan name: ______________________
+
+SECTION 2: REQUESTING PROVIDER INFORMATION
+  Provider / facility name: ______________________
+  Provider NPI: ______________________
+
+SECTION 3: REQUESTED SERVICE
+  Requested service / procedure / medication: ______________________
+  Procedure or drug code (CPT / HCPCS): ______________________
+  Diagnosis: ______________________
+  Diagnosis code (ICD-10): ______________________
+
+SECTION 4: CLINICAL JUSTIFICATION
+  Narrative summarizing symptom duration, prior treatments tried, exam
+  findings, and how the case aligns with the payer's published
+  medical-necessity criteria for the requested service:
+
+  ______________________________________________________________________
+  ______________________________________________________________________
+  ______________________________________________________________________
+
+SECTION 5: STAFF REVIEW / SIGN-OFF (mandatory before submission)
+  Reviewed by (name/credential): ______________________
+  Decision: [ ] Approved as drafted   [ ] Approved with corrections   [ ] Rejected
+  Reviewer note: ______________________________________________________
+
+This form and every field on it is drafted by the assistant strictly from
+information already present in the clinician's chart excerpt. It is
+administrative paperwork assistance only -- it does not represent a
+coverage or medical-necessity determination, which remains the payer's
+decision, and it is not final until a licensed staff member/clinician
+reviews and approves it.

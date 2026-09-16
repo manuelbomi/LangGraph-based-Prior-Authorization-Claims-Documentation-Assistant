@@ -1,0 +1,11 @@
+PAYER: Meridian Health Plan
+SERVICE: Lumbar Spine MRI (CPT 72148)
+POLICY TITLE: Medical Necessity Criteria for Lumbar Spine MRI Without Contrast
+
+CRITERION a: Low back pain symptoms have been present for greater than 6 weeks.
+CRITERION b: Conservative treatment (for example, physical therapy, home exercise, NSAIDs, or activity modification) has been attempted for at least 6 weeks without adequate improvement.
+CRITERION c: A documented neurological deficit (for example, motor weakness, diminished reflexes, or sensory loss in a dermatomal pattern) OR a red-flag symptom (for example, bowel or bladder dysfunction, saddle anesthesia, unexplained weight loss, history of cancer, or fever) is present.
+CRITERION d: If a lumbar spine X-ray was already obtained, it did not adequately explain the patient's symptoms, or an X-ray was not performed.
+CRITERION e: The requesting provider has documented that MRI findings are expected to change management (for example, surgical referral, injection planning, or ruling out a serious underlying cause).
+
+NOTE: This is a fictitious payer policy created for a software engineering demonstration. It is not derived from, and does not represent, the actual medical policy of any real insurance company. It should not be used for any real coverage determination.

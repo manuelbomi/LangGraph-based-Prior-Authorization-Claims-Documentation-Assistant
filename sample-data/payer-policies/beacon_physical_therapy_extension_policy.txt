@@ -1,0 +1,11 @@
+PAYER: Beacon Preferred Insurance
+SERVICE: Outpatient Physical Therapy Extension (CPT 97110 / 97140)
+POLICY TITLE: Medical Necessity Criteria for Extending Outpatient Physical Therapy Beyond the Initial Authorization
+
+CRITERION a: The member has completed the initially authorized course of physical therapy visits (typically 6 visits) and a progress note is available covering that course.
+CRITERION b: The progress note documents objective, measurable functional improvement (for example, increased range of motion, improved strength grade, decreased pain score, or improved standardized functional assessment score) attributable to therapy so far.
+CRITERION c: The member has a documented, specific functional goal that has not yet been met (for example, returning to a specific work duty, walking a defined distance, or independent stair navigation).
+CRITERION d: The treating therapist has documented an updated plan of care with an estimated number of additional visits and expected timeframe to reach the stated functional goal.
+CRITERION e: There is no evidence in the record that the member's progress has plateaued for 2 or more consecutive visits without any adjustment to the treatment approach.
+
+NOTE: This is a fictitious payer policy created for a software engineering demonstration. It is not derived from, and does not represent, the actual medical policy of any real insurance company. It should not be used for any real coverage determination.

@@ -1,0 +1,25 @@
+CEDAR VALLEY FAMILY MEDICINE
+Referral / Chart Excerpt for Prior Authorization Request
+
+Patient: Jordan Blake
+DOB: 1979-03-14
+Member ID: MHP-5521309 (Meridian Health Plan)
+Referring Provider: Dr. Alicia Munoz, MD
+
+Date of visit: 2026-08-28
+
+Chief complaint: Chronic low back pain, worsening over the last several weeks, now with left leg symptoms.
+
+History of present illness: Patient reports low back pain that began approximately 10 weeks ago after moving furniture. Pain is described as a constant dull ache in the lower back with intermittent sharp, shooting pain radiating down the posterior left thigh into the calf. Over the past 2 weeks the patient has also noticed mild numbness along the outer aspect of the left foot and occasional weakness when trying to stand on the left toes.
+
+Treatments tried: Patient completed a 6-week course of physical therapy (12 visits) focused on core strengthening and lumbar stabilization, with only mild, temporary relief. Patient has also been taking naproxen 500 mg twice daily for the past 8 weeks with minimal benefit, and tried a short course of a muscle relaxant (cyclobenzaprine) which was discontinued due to drowsiness. Activity modification (avoiding heavy lifting) has been in place throughout.
+
+Exam findings: Positive straight leg raise on the left at 40 degrees. Decreased sensation to light touch along the lateral left foot (L5-S1 distribution). Left ankle plantarflexion strength 4/5 compared to 5/5 on the right. Deep tendon reflexes symmetric. No bowel or bladder dysfunction reported. No saddle anesthesia. No fever, no unexplained weight loss, no history of cancer.
+
+Imaging: Lumbar spine X-ray obtained 3 weeks ago showed mild degenerative disc space narrowing at L5-S1 but no acute findings; did not explain the radicular symptoms.
+
+Assessment: Chronic low back pain with left L5-S1 radiculopathy, not adequately explained by plain films, with a documented neurological deficit (decreased sensation and mild motor weakness) after failing 6 weeks of physical therapy and NSAID therapy.
+
+Plan: Requesting prior authorization for lumbar spine MRI without contrast to evaluate for disc herniation or nerve root compression prior to considering referral to spine surgery or interventional pain management. Findings are expected to directly change management (surgical vs. non-surgical referral, or epidural steroid injection planning).
+
+--- END OF CHART EXCERPT (fictitious patient, for software demonstration only) ---
