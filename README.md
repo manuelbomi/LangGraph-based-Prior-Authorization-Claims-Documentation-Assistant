@@ -1,4 +1,4 @@
-# LangGraph Tutorial 05: Prior-Authorization & Claims Documentation Assistant
+# LangGraph-based Prior-Authorization & Claims Documentation Assistant
 
 A [LangGraph](https://langchain-ai.github.io/langgraph/)-powered assistant
 that drafts prior-authorization (PA) request paperwork from a clinician's
